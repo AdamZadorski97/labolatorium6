@@ -3,3 +3,4 @@
 ## Lista autorów:
 1. Adam Zadorski
 2. Jan Kowalski
+Link do repozytorium: https://github.com/AdamZadorski97/labolatorium6
