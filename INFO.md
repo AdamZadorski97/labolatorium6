@@ -5,3 +5,4 @@
 2. Jan Kowalski
 Link do repozytorium: https://github.com/AdamZadorski97/labolatorium6
 Link do repozytorium: https://github.com/AdamZadorski97/labolatorium
+Ignorowane pliki: sekret.txt
